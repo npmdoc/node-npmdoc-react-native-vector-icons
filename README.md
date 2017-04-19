@@ -1,9 +1,14 @@
-# api documentation for  [react-native-vector-icons (v4.0.1)](https://github.com/oblador/react-native-vector-icons)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-vector-icons.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-vector-icons) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-vector-icons.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-vector-icons)
+# npmdoc-react-native-vector-icons
+
+#### api documentation for  [react-native-vector-icons (v4.0.1)](https://github.com/oblador/react-native-vector-icons)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-vector-icons.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-vector-icons) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-vector-icons.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-vector-icons)
+
 #### Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling.
 
-[![NPM](https://nodei.co/npm/react-native-vector-icons.png?downloads=true)](https://www.npmjs.com/package/react-native-vector-icons)
+[![NPM](https://nodei.co/npm/react-native-vector-icons.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-native-vector-icons)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-react-native-vector-icons/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-react-native-vector-icons_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-react-native-vector-icons/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-react-native-vector-icons/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-react-native-vector-icons/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-react-native-vector-icons/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-react-native-vector-icons/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-react-native-vector-icons/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Joel Arvidsson",
-        "email": "joel@oblador.se"
+        "name": "Joel Arvidsson"
     },
     "bin": {
         "generate-icon": "./generate-icon.js"
@@ -75,13 +79,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "oblador",
-            "email": "joel@oblador.se"
+            "name": "oblador"
         }
     ],
     "name": "react-native-vector-icons",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/oblador/react-native-vector-icons.git"
@@ -108,16 +110,6 @@
     "version": "4.0.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module react-native-vector-icons](#apidoc.module.react-native-vector-icons)
-
-
-
-# <a name="apidoc.module.react-native-vector-icons"></a>[module react-native-vector-icons](#apidoc.module.react-native-vector-icons)
 
 
 
